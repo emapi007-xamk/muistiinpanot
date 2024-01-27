@@ -2,7 +2,7 @@
 
 An app I originally created as an assignment for a programming course.
 
-[Deployed ](https://marjukkapiironen.github.io/muistio/)
+[Deployed here](https://marjukkapiironen.github.io/muistio/)
 
 Used MUI components, react-router, uuid, date-fns and framer motion.
 
